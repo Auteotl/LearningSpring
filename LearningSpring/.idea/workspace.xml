@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40a66cd6-c5dd-41ed-9be6-6c445503ff7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resourses/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aut/learningspring/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/aut/learningspring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aut/learningspring/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aut/learningspring/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aut/learningspring/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aut/learningspring/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +82,8 @@
       <workItem from="1666289395086" duration="813000" />
       <workItem from="1666340082227" duration="1918000" />
       <workItem from="1666343087013" duration="630000" />
-      <workItem from="1666595560947" duration="2781000" />
+      <workItem from="1666595560947" duration="2953000" />
+      <workItem from="1666634400616" duration="1200000" />
     </task>
     <servers />
   </component>
