@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40a66cd6-c5dd-41ed-9be6-6c445503ff7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aut/learningspring/TestBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aut/learningspring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aut/learningspring/KpopMusic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +75,7 @@
       <workItem from="1666289395086" duration="813000" />
       <workItem from="1666340082227" duration="1918000" />
       <workItem from="1666343087013" duration="630000" />
-      <workItem from="1666595560947" duration="1242000" />
+      <workItem from="1666595560947" duration="1765000" />
     </task>
     <servers />
   </component>
